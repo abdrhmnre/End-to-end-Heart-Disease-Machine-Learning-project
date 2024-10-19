@@ -1,1 +1,1 @@
-# # End-to-end Heart Disease ML  project 
+# # End-to-end Heart Disease Machine Learning  project 
